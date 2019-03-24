@@ -10,11 +10,11 @@
 
 编译器：texworks.exe(texlive自带的就很好用)
 
-编译建议选择XeLaTex
-
-参考文献编译建议选择 biber
-
 编译选择文件 thesis.tex
+
+编译方式建议选择XeLaTex
+
+参考文献编译方式建议选择 biber
 
 编译顺序为 XeLaTex + biber + XeLaTex+ XeLaTex（带参考文献）
 
